@@ -145,7 +145,7 @@ const BookEdit = (props) => {
             <button type="submit" className="btn btn-sm btn-success">
               Edit this book
             </button>
-            <Link className="btn btn-sm btn-secondary ms-2" to="/products">
+            <Link className="btn btn-sm btn-secondary ms-2" to="/books">
               Back
             </Link>
           </form>
